@@ -1,0 +1,6 @@
+function mostrarNombre ({
+    alert('Omar')
+
+}
+    
+    
